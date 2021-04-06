@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pastel</string>
+    <string name="noResult">No se Encontraron resultados para tu busqueda.</string>
+    <string name="hintSearch">"Busca en Mercado Libre"</string>
+    <string name="noConnected">"El dispositivo no esta conectado a Internet"</string>
+    <string name="type_operation">¿Qué estas buscando?</string>
+</resources>
